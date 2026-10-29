@@ -24,7 +24,7 @@ Annual
 
 ## Retrieval date
 
-[Enter retrieval date]
+10/29/2026
 
 ## Raw filenames
 
